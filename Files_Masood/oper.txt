@@ -1,0 +1,10 @@
+Sample data
+
+Writing sample data into new text file
+
+
+Sample data
+Writing sample data into new text file
+
+Appending data 
+This is new data 
